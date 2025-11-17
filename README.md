@@ -53,5 +53,5 @@ Olá! Eu sou a Clara e estou cursando Ciência da Computação na UEPB. Tenho me
 ### 🛠️ Tecnologias favoritas
 | Backend | Frontend | Banco de Dados | Outros |
 |--------|----------|----------------|--------|
-| Java | HTML | MySQL | Git |
-| Node.js | CSS | PostgreSQL | Linux |
+| Java | JavaScript | MySQL | Python |
+| Node.js | HTML | PostgreSQL | Git |
